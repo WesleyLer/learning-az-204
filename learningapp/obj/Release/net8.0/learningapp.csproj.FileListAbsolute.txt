@@ -65,3 +65,4 @@ C:\Users\AV271PH\OneDrive - EY\Documents\AZ-204 learning\Azure App Service\appli
 C:\Users\AV271PH\OneDrive - EY\Documents\AZ-204 learning\Azure App Service\application\learningapp\obj\Release\net8.0\learningapp.pdb
 C:\Users\AV271PH\OneDrive - EY\Documents\AZ-204 learning\Azure App Service\application\learningapp\obj\Release\net8.0\learningapp.genruntimeconfig.cache
 C:\Users\AV271PH\OneDrive - EY\Documents\AZ-204 learning\Azure App Service\application\learningapp\obj\Release\net8.0\ref\learningapp.dll
+C:\Users\AV271PH\OneDrive - EY\Documents\AZ-204 learning\Azure App Service\application\learningapp\obj\Release\net8.0\learningapp.sourcelink.json
